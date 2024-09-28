@@ -1,0 +1,264 @@
+body {
+  background-color: black;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  top: -40%;
+  left: 40%;
+}
+
+#mydivheader {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.one {
+  width: 1000px;
+}
+
+.one:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv2 {
+  position: absolute;
+  z-index: 9;
+  top: 10%;
+  left: 80%;
+}
+
+#mydivheader2 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.two {
+  width: 500px;
+  margin-top: -50%;
+}
+
+.two:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv3 {
+  position: absolute;
+  z-index: 9;
+  top: 26%;
+  left: 25%;
+}
+
+#mydivheader3 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.three {
+  width:600px;
+}
+
+.three:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv4 {
+  position: absolute;
+  z-index: 9;
+  top: -30%;
+  left: 35%;
+}
+
+#mydivheader4 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.four {
+  width:700px;
+}
+
+.four:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv5 {
+  position: absolute;
+  z-index: 9;
+  top: 25%;
+  left: 35%;
+}
+
+#mydivheader5 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.five {
+  width:800px;
+}
+
+.five:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv6 {
+  position: absolute;
+  z-index: 9;
+  top: -15%;
+  left: 15%;
+}
+
+#mydivheader6 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.six {
+  width:600px;
+}
+
+.six:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv7 {
+  position: absolute;
+  z-index: 9;
+  top: -17%;
+  left: -28%;
+}
+
+#mydivheader7 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.seven {
+  width:1000px;
+}
+
+.seven:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv8 {
+  position: absolute;
+  z-index: 9;
+  top: 30%;
+  left: 10%;
+}
+
+#mydivheader8 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.eight {
+  width:600px;
+}
+
+.eight:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv9 {
+  position: absolute;
+  z-index: 9;
+  top: -18%;
+  left: 28%;
+}
+
+#mydivheader9 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.nine {
+  width:600px;
+}
+
+.nine:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv10 {
+  position: absolute;
+  z-index: 9;
+  top: -18%;
+  left: -10%;
+}
+
+#mydivheader10 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.ten {
+  width:900px;
+}
+
+.ten:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv11 {
+  position: absolute;
+  z-index: 1;
+  top: -18%;
+  left: 58%;
+}
+
+#mydivheader11 {
+/*  padding: 10px;*/
+  z-index: 1;
+}
+
+.eleven {
+  width:900px;
+}
+
+.eleven:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+#mydiv12 {
+  position: absolute;
+  z-index: 9;
+  top: 30%;
+  left: 80%;
+}
+
+#mydivheader12 {
+/*  padding: 10px;*/
+  z-index: 10;
+}
+
+.twelve {
+  width:500px;
+}
+
+.twelve:hover {
+  transform: scale(1.05);
+  transition: 0.15s;
+}
+
+.collage {
+  width: 110%;
+  margin-left: -5%;
+  margin-top: -5%;
+}
